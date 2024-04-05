@@ -9,7 +9,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 // * Please DO NOT INCLUDE the private app access token in your repo. Don't do this practicum in your normal account.
-const PRIVATE_APP_ACCESS = 'pat-na1-dcdcb68a-d147-498b-ba2a-db1a66ee348d';
+const PRIVATE_APP_ACCESS = '';
 
 
 
